@@ -82,11 +82,11 @@ p {
 
 #contactDetails ul li {
 	margin-bottom: 3px;
-	color: #444;
+	color: #FFF;
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #444;
+	color: #FFF;
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
